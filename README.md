@@ -19,7 +19,7 @@
 
 #### You can always count on me when...
 
-When you need to discuss or to give you some theoric advices
+When you need to discuss or when you need an opinion about something.
 
 ##### A funny story
 
