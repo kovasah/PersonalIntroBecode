@@ -6,3 +6,17 @@
 | ----------- | ----------- | ----------- |
 | 08/06 | Blue | Beef Tartare |
 - [ ] Pineapple on Pizza
+### My Hobbies
+-History
+-Cooking
+-Video Games
+    -Grand strategy games
+    -Real time strategy games
+
+#### You can always count on me when...
+
+I think I will contribute to the group in differents aspects ...
+
+##### A funny story
+
+
