@@ -16,7 +16,7 @@
 
 #### You can always count on me when...
 
-When you need some help 
+When you need to discuss or to give you some theoric advices
 
 ##### A funny story
 
