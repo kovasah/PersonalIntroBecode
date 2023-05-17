@@ -4,4 +4,4 @@
 ## Un peu tard mais pas en retard.
 | Birthday | Favorite color | Favorite food | Pineapple on Pizza |
 | ----------- | ----------- | ----------- | ----------- |
-| 08/06 | Blue | Beef Tartare | -([ ]) |
+| 08/06 | Blue | Beef Tartare | -[ ] |
