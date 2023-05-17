@@ -22,6 +22,6 @@ When you need some help
 
 When I was a child, some nights I was sleepwalking. I woke up in the midnight and started walking all around my house but fortunately my parents always see me and took me back to my bed. A night I went to my bathroom and took my bath, I remember waking up in the bath and realising only at this moment I was taking my bath.
 
-<<previous|| Sam Kovacevic||next>>
+<<[Previous]()|| Sam Kovacevic || [Next]()>>
 
 
