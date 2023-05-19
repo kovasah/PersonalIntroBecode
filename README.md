@@ -6,8 +6,7 @@
 
 | Birthday | Favorite color | Favorite food | Pineapple on pizza |
 | ----------- | ----------- | ----------- | ----------- |
-| 08/06 | Blue | Beef Tartare | <ul><li>[] yes</li><li>[x] no</li></ul> |
-- [ ] Pineapple on Pizza
+| 08/06 | Blue | Beef Tartare | <ul><li>[ ] yes</li><li>[x] no</li></ul> |
 
 ### My Hobbies
 
